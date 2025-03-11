@@ -32,3 +32,4 @@
 - [ ] [SpyCloud | Check Your Exposure](https://spycloud.com/check-your-exposure/)
 - [ ] osint.rocks
 - [ ] [Dumps monitor](https://psbdmp.ws/)
+- [ ] [Hudson Rock Free Infostealer Intelligence Toolset](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
